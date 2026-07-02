@@ -36,4 +36,8 @@ Why Circle Built Arc: The Vision and Key Features
      Event Replay: Day One Architect: Para
       Circle Agent Stack Quickstart - financial infrastructure for the agentic economy.
       AI Agents, USDC, and the Programmable Economy | thirdweb (Furqan Rydhan) | Builder Series]
-      
+      The Arc developer experience: Hear from early builders at Sequence, Dynamic, and BuFi
+Using Circle Developer Controlled Wallets to Send and Manage USDC
+Using Circle Wallets to Send and Manage USDC
+How Circle Paymaster Works
+ Introducing Circle Paymaster – Pay Gas Fees with USDC
