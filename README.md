@@ -49,7 +49,8 @@ How USDC Works On Ethereum: ERC-20 Token Standard
 Making Your First USDC Transaction On Ethereum
 How Does Circle Gateway Work? | Explained
 CCTP vs. Gateway: What’s the Difference and When to Use Each
-Emerging AI Trends with USDC
 Demo: Moving USDC from Optimism to Ethereum with CCTP (Step-by-Step)
 Introducing CCTP Fast Transfer and How it Works
 How Is USDC Unified Across Blockchains with Circle Gateway?
+Architect Technical Office Hours 4/30/26
+Circle Ventures Spotlight: Trad.FI
