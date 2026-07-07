@@ -54,3 +54,5 @@ Introducing CCTP Fast Transfer and How it Works
 How Is USDC Unified Across Blockchains with Circle Gateway?
 Architect Technical Office Hours 4/30/26
 Circle Ventures Spotlight: Trad.FI
+ArcShop with Elton: Unified Balance Kit for Crosschain USDC Flows
+ArcShop with HJ: Building Chain Agnostic Apps with Circle Gateway and Circle Wallets
