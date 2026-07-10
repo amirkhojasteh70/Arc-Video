@@ -56,3 +56,4 @@ Architect Technical Office Hours 4/30/26
 Circle Ventures Spotlight: Trad.FI
 ArcShop with Elton: Unified Balance Kit for Crosschain USDC Flows
 ArcShop with HJ: Building Chain Agnostic Apps with Circle Gateway and Circle Wallets
+Event Replay: Arc x Canteen: Agora Hackathon Builder Spotlight
