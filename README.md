@@ -57,3 +57,4 @@ Circle Ventures Spotlight: Trad.FI
 ArcShop with Elton: Unified Balance Kit for Crosschain USDC Flows
 ArcShop with HJ: Building Chain Agnostic Apps with Circle Gateway and Circle Wallets
 Event Replay: Arc x Canteen: Agora Hackathon Builder Spotlight
+Event Replay:Building on Arc: Open-Source Resources from the Canteen x Arc Hackathon Series
