@@ -59,3 +59,5 @@ ArcShop with HJ: Building Chain Agnostic Apps with Circle Gateway and Circle Wal
 Event Replay: Arc x Canteen: Agora Hackathon Builder Spotlight
 Event Replay:Building on Arc: Open-Source Resources from the Canteen x Arc Hackathon Series
 Builder Spotlight: Synthra - Spot, Concentrated Liquidity, and Perpetual Markets on Arc
+Event Replay: Arc Builder Spotlight: Tower Exchange - Native Stablecoin DEX Aggregation on Arc
+Event Replay: Arc Builder Spotlight: Pulsar - Consumer Stablecoin Money on Arc
