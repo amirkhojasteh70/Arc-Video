@@ -61,3 +61,5 @@ Event Replay:Building on Arc: Open-Source Resources from the Canteen x Arc Hacka
 Builder Spotlight: Synthra - Spot, Concentrated Liquidity, and Perpetual Markets on Arc
 Event Replay: Arc Builder Spotlight: Tower Exchange - Native Stablecoin DEX Aggregation on Arc
 Event Replay: Arc Builder Spotlight: Pulsar - Consumer Stablecoin Money on Arc
+The Agentic Economy Thesis in 6 Minutes
+Event Recap: Arc Builder Spotlight: AIsa - Agentic APIs and Nanopayments
