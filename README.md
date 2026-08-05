@@ -63,3 +63,4 @@ Event Replay: Arc Builder Spotlight: Tower Exchange - Native Stablecoin DEX Aggr
 Event Replay: Arc Builder Spotlight: Pulsar - Consumer Stablecoin Money on Arc
 The Agentic Economy Thesis in 6 Minutes
 Event Recap: Arc Builder Spotlight: AIsa - Agentic APIs and Nanopayments
+Authorize Gateway Transfers with ERC-1271
