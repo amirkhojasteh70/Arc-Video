@@ -78,3 +78,4 @@ Build a Startup GTM Agent That Pays for Lead Research with USDC
 Managing Wallets on Arc
 Building Smart Contracts on Arc
 Payments on Arc with Stablecoins
+Send USDC with Transaction Memos on Arc Testnet
