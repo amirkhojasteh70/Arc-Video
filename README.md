@@ -81,3 +81,4 @@ Payments on Arc with Stablecoins
 Send USDC with Transaction Memos on Arc Testnet
 Crosschain Transfers with CCTP
 How to Access USDC Crosschain with Gateway
+Fund Gateway from Slow-Finality Chains with Fast Deposits
