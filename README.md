@@ -8,7 +8,7 @@ Building Bermuda’s Onchain Economy | The Government of Bermuda (David Burt) / 
 CRCL live AMA with CEO Jeremy Allaire
 · Replay: Arc Enterprise & DeFi Hackathon Spotlight: Chariot - Crosschain Collateral Lending Protocol on Arc
 Event Replay: Trustless USDC Agents on Arc
- Arc Day 1 Builder Series: Kosh
+ Arc Day 1 Builder Series: osh
  Arc Day One Builder Series: Peer
  Day One: Blockradar
  Event Replay: Gateway with Blockradar
